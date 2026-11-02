@@ -9,7 +9,7 @@ Made for **college students** and anyone building a **new skill**.
 
 | Day | Topic | Level | Folder |
 |---|---|---|---|
-| 01 | Write your first Python program | Beginner | [Day-01](./Day-01) |
+| 01 | Write your first Python program | Beginner | [Day-01](../Day-01) |
 | 02 | Variables & Data Types | Beginner | Coming soon |
 | 03 | Input & Operators | Beginner | Coming soon |
 | 04 | Strings | Beginner | Coming soon |
